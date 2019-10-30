@@ -1,0 +1,18 @@
+{
+    "object":{
+        "xtek_support": {
+            "element": "['idsensor','name_sensor', 'min', 'max', 'note']",
+            "title": "SUPPORT",
+            "database": "mysql-1"
+        }
+    },
+    "database":{
+        "mysql-1":{
+            "host": "localhost",
+            "port": "3306",
+            "user": "black",
+            "password": "asrkpvg7",
+            "database": "xtek"
+        }
+    }
+}
